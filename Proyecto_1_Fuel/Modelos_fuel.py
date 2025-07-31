@@ -4,8 +4,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Parámetros de conexión a MySQL
-usuario = 'root'
-clave = '19070114rasecA'
+usuario = '***'
+clave = '***'
 host = 'localhost'
 base = 'fuel_database'
 
